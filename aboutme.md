@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/) is an Assistant Professor in the Computer Science department at the University of Texas at Austin. He did his post-doc at the VMware Research Group, and got his PhD with Prof. Remzi and Andrea Arpaci-Dusseau at the University of Wisconsin-Madison. His papers have won Best Paper Awards in ATC 2018, FAST 2018, and FAST 2017. He was awarded the NSF CAREER Award in 2018, SIGOPS Dennis M. Ritchie Dissertation Award in 2016, and the Microsoft Research Fellowship in 2014. Techniques from his work have been incorporated into commercial products, and his work has helped make the Linux kernel more reliable.
