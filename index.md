@@ -16,7 +16,7 @@ First, I wanted to document my own journey of becoming a professor and getting t
 
 ## Outline (as of Jun 2022)
 
-<img src="assets/img/outline-jun22.png" style="align:center;width:200px;margin:10px 10px 10px 10px">
+<img src="assets/img/outline-jun22.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">
 
 
 
