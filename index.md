@@ -8,7 +8,7 @@ subtitle: What I wish I knew when I started as an Assistant Professor in Compute
 
 Hello! My name is Vijay Chidambaram, and I'm an Assistant Professor (Associate Professor from Fall 22) at the Department of Computer Science at the University of Texas at Austin. I'm planning to write "The CS Assistant Professor" Handbook over the next year or so while I'm on my sabbatical (hope to be done by Jun 23!).
 
-If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates!
+If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates! You can use the form to tell me if there are topics you would like me to cover.
 
 ## Why write this book?
 
