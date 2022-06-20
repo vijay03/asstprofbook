@@ -8,5 +8,6 @@ Hello! My name is Vijay Chidambaram, and I'm an Assistant Professor (Associate P
 
 If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates!
 
+<img src="assets/img/cover.png" style="float:left;">
 
 
