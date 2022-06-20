@@ -10,7 +10,8 @@ Hello! My name is Vijay Chidambaram, and I'm an Assistant Professor (Associate P
 
 If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates! You can use the form to tell me if there are topics you would like me to cover.
 
-<br><p><br><p><br>
+<p><br></p>
+<p><br></p>
 
 ## Why write this book?
 
