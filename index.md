@@ -28,7 +28,9 @@ This book is mainly meant for new assistant professors, and graduate students wh
 
 Being a student of [Remzi](http://www.cs.wisc.edu/~remzi) and [Andrea Arpaci-Dusseau](http://www.cs.wisc.edu/~dusseau), how could I not make this [a free online book](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)? The book chapters will always be available online at this website.
 
-I plan to upload the chapter PDFs as I write them (without any fancy typography) onto this website. I will be creating a nicer-to-look-at print and e-reader version as well, that you could get from popular vendors such as Amazon. 
+I plan to upload the chapter PDFs as I write them (without any fancy typography) onto this website. Those who have signed up will also receive the book chapters by email.
+
+I will be creating a nicer-to-look-at print and e-reader version as well, that you could get from popular vendors such as Amazon. But this will likely be after all the content is up in raw form.
 
 ## Reporting errors 
 
