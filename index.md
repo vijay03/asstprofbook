@@ -30,3 +30,6 @@ Being a student of [Remzi](http://www.cs.wisc.edu/~remzi) and [Andrea Arpaci-Dus
 
 I plan to upload the chapter PDFs as I write them (without any fancy typography) onto this website. I will be creating a nicer-to-look-at print and e-reader version as well, that you could get from popular vendors such as Amazon. 
 
+## Reporting errors 
+
+If you see an error in the book, please open an issue [here](https://github.com/vijay03/asstprofbook/issues). Note that the actual text of the book isn't on Github, so you cannot submit pull requests. I would be happy to fix errors in response to issues. 
