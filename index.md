@@ -33,3 +33,11 @@ I plan to upload the chapter PDFs as I write them (without any fancy typography)
 ## Reporting errors 
 
 If you see an error in the book, please open an issue [here](https://github.com/vijay03/asstprofbook/issues). Note that the actual text of the book isn't on Github, so you cannot submit pull requests. I would be happy to fix errors in response to issues. 
+
+## Copyright 
+
+Copyright (c) 2022. Vijay Chidambaram. 
+
+These materials are copyright protected. You must ask me permission to use these materials.
+
+I do not grant to you the right to publish these materials for profit in any form. Any unauthorized copying of the  materials is a violation of federal law and may result in legal action.
