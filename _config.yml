@@ -14,6 +14,7 @@ author: Vijay Chidambaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Book Chapters: "chapter-list"
   About Me: "aboutme"
   Author's home: "https://www.cs.utexas.edu/~vijay/"
 
@@ -62,7 +63,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Website for the book The Assistant Professor Handbook
+rss-description: The CS Assistant Professor Handbook
 
 # --- General options --- #
 
@@ -90,7 +91,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "assistant professor, academia, handbook"
 
 # --- Colours / background image --- #
 
