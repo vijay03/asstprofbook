@@ -1,5 +1,6 @@
 {% if site.google_analytics %}
 <!-- Google Analytics -->
+<!--
 <script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -10,5 +11,15 @@
   ga('create', '{{ site.google_analytics }}', 'auto');
   ga('send', 'pageview');
 </script>
+-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FV0L0HVL2D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FV0L0HVL2D');
+  </script>
 <!-- End Google Analytics -->
 {% endif %}
