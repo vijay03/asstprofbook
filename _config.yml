@@ -15,7 +15,7 @@ author: Vijay Chidambaram
 
 navbar-links:
   Book Chapters: "chapters-list"
-  About Me: "aboutme"
+  Author Info: "aboutme"
   Author's home: "https://www.cs.utexas.edu/~vijay/"
 
 # --- Logo --- #
