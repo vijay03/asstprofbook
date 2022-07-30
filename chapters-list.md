@@ -13,5 +13,6 @@ Published chapters:
 - [Book Cover](chapters/cover.pdf)
 - [Cover Pages](chapters/prelim.pdf)
 - [Introduction](chapters/intro.pdf)
+- [The Assistant Prof Job](chapters/job.pdf)
 - [Networking](chapters/networking.pdf)
 
