@@ -12,7 +12,7 @@ Please point out errors by creating an [issue here](https://github.com/vijay03/a
 Published chapters are linked:
 - [Book Cover](chapters/cover.pdf)
 - [Cover Pages](chapters/prelim.pdf)
-- [Preface](chapters/intro.pdf)
+- [Preface](chapters/preface.pdf)
 - [Chapter 1: The Assistant Prof Job](chapters/job.pdf)
 - Chapter 2: Students
 - Chapter 3: Grants and Funding
