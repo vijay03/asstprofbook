@@ -19,10 +19,10 @@ Published chapters:
 - Chapter 4: Teaching
 - Chapter 5: Research
 - Chapter 6: Outreach
-  	  - 6.1 Blogging
-	  - 6.2 Using social media
-	  - 6.3 Giving talks
-  	  - [6.4 Networking](chapters/networking.pdf)
+    - 6.1 Blogging
+    - 6.2 Using social media
+    - 6.3 Giving talks
+    - [6.4 Networking](chapters/networking.pdf)
 - Chapter 7: Service
 - Chapter 8: Self-Care
 - Conclusion
