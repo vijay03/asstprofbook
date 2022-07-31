@@ -12,7 +12,17 @@ Please point out errors by creating an [issue here](https://github.com/vijay03/a
 Published chapters:
 - [Book Cover](chapters/cover.pdf)
 - [Cover Pages](chapters/prelim.pdf)
-- [Introduction](chapters/intro.pdf)
-- [The Assistant Prof Job](chapters/job.pdf)
-- [Networking](chapters/networking.pdf)
-
+- [Preface](chapters/intro.pdf)
+- [Chapter 1: The Assistant Prof Job](chapters/job.pdf)
+- Chapter 2: Students
+- Chapter 3: Grants and Funding
+- Chapter 4: Teaching
+- Chapter 5: Research
+- Chapter 6: Outreach
+  	  - 6.1 Blogging
+	  - 6.2 Using social media
+	  - 6.3 Giving talks
+  	  - [6.4 Networking](chapters/networking.pdf)
+- Chapter 7: Service
+- Chapter 8: Self-Care
+- Conclusion
