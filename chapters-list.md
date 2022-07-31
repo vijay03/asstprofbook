@@ -9,7 +9,7 @@ I'm aware the PDFs look terrible right now. Content first! My plan is to write i
 
 Please point out errors by creating an [issue here](https://github.com/vijay03/asstprofbook/issues). 
 
-Published chapters:
+Published chapters are linked:
 - [Book Cover](chapters/cover.pdf)
 - [Cover Pages](chapters/prelim.pdf)
 - [Preface](chapters/intro.pdf)
