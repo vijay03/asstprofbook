@@ -26,3 +26,6 @@ Published chapters are linked:
 - Chapter 7: Service
 - Chapter 8: Self-Care
 - Conclusion
+
+Changelog:
+- Aug 23: Updated job chapter with a day in the life of an assistant professor
