@@ -28,4 +28,5 @@ Published chapters are linked:
 - Conclusion
 
 Changelog:
+- Aug 28: Add refs for salary data, added a rough division of how much time in spent on various aspects of the job
 - Aug 23: Updated job chapter with a day in the life of an assistant professor
