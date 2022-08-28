@@ -15,7 +15,7 @@ Published chapters are linked:
 - [Preface](chapters/preface.pdf)
 - [Chapter 1: The Assistant Prof Job](chapters/job.pdf)
 - Chapter 2: Students
-- Chapter 3: Grants and Funding
+- Chapter 3: Funding
 - Chapter 4: Teaching
 - Chapter 5: Research
 - Chapter 6: Outreach
