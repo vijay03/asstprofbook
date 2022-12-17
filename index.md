@@ -6,7 +6,7 @@ subtitle: What I wish I knew when I started as an Assistant Professor in Compute
 
 <img src="assets/img/cover.png" style="float:left;width:200px;margin:10px 10px 10px 10px">
 
-Hello! My name is Vijay Chidambaram, and I'm an Assistant Professor (Associate Professor from Fall 22) at the Department of Computer Science at the University of Texas at Austin. I'm planning to write "The CS Assistant Professor" Handbook over the next year or so while I'm on my sabbatical (hope to be done by Jun 23!).
+Hello! My name is Vijay Chidambaram, and I'm a recently-promoted Associate Professor at the Department of Computer Science at the University of Texas at Austin. I'm planning to write "The CS Assistant Professor" Handbook over the next year or so while I'm on my sabbatical (hope to be done by Jun 23!).
 
 If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates! You can use the form to tell me if there are topics you would like me to cover.
 
@@ -30,7 +30,7 @@ Being a student of [Remzi](http://www.cs.wisc.edu/~remzi) and [Andrea Arpaci-Dus
 
 I plan to upload the chapter PDFs as I write them (without any fancy typography) onto this website. Those who have signed up will also receive the book chapters by email.
 
-I will be creating a nicer-to-look-at print and e-reader version as well, that you could get from popular vendors such as Amazon. But this will likely be after all the content is up in raw form.
+If you want a version that is easier to read on a tablet/kindle, the book will also be available through Amazon! You can pre-order it [here](https://www.amazon.com/dp/B0BPLYLKQK). The ebook tentatively launches Mar 2023. I'm still exploring making it available from other vendors (it is not exclusive to Amazon).
 
 ## Reporting errors 
 
