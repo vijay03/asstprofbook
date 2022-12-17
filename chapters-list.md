@@ -16,7 +16,7 @@ Published chapters are linked:
 - [Chapter 1: The Assistant Prof Job](chapters/job.pdf)
 - [Chapter 2: Students](chapters/students.pdf)
 - [Chapter 3: Funding](chapters/funding.pdf)
-- Chapter 4: Teaching
+- [Chapter 4: Teaching](chapters/teaching.pdf)
 - Chapter 5: Research
 - Chapter 6: Outreach
     - 6.1 Blogging
@@ -28,6 +28,7 @@ Published chapters are linked:
 - Conclusion
 
 Changelog:
+- Dec 17: Add teaching chapter
 - Nov 8: Add students chapter
 - Sep 11: Add funding chapter
 - Aug 28: Add refs for salary data, added a rough division of how much time in spent on various aspects of the job
