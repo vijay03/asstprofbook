@@ -28,6 +28,7 @@ Published chapters are linked:
 - Conclusion
 
 Changelog:
+- Jan 23: Updated and re-organized teaching chapter
 - Dec 17: Add teaching chapter
 - Nov 8: Add students chapter
 - Sep 11: Add funding chapter
