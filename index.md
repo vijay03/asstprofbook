@@ -32,6 +32,8 @@ I plan to upload the chapter PDFs as I write them (without any fancy typography)
 
 If you want a version that is easier to read on a tablet/kindle, the book will also be available through Amazon! You can pre-order it [here](https://www.amazon.com/dp/B0BPLYLKQK). The ebook tentatively launches Mar 2023. I'm still exploring making it available from other vendors (it is not exclusive to Amazon).
 
+<img src="assets/img/kindle.png" style="float:center;height:200px;margin:10px 10px 10px 10px">
+
 ## Reporting errors 
 
 If you see an error in the book, please open an issue [here](https://github.com/vijay03/asstprofbook/issues). Note that the actual text of the book isn't on Github, so you cannot submit pull requests. I would be happy to fix errors in response to issues. 
