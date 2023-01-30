@@ -17,7 +17,7 @@ Published chapters are linked:
 - [Chapter 2: Students](chapters/students.pdf)
 - [Chapter 3: Funding](chapters/funding.pdf)
 - [Chapter 4: Teaching](chapters/teaching.pdf)
-- Chapter 5: Research
+- [Chapter 5: Research](chapters/research.pdf)
 - Chapter 6: Outreach
     - 6.1 Blogging
     - 6.2 Using social media
@@ -28,6 +28,7 @@ Published chapters are linked:
 - Conclusion
 
 Changelog:
+- Jan 30: Add research chapter
 - Jan 23: Updated and re-organized teaching chapter
 - Dec 17: Add teaching chapter
 - Nov 8: Add students chapter
