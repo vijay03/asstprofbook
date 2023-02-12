@@ -14,9 +14,9 @@ author: Vijay Chidambaram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Book Chapters: "chapters-list"
-  Author Info: "aboutme"
-  Author's home: "https://www.cs.utexas.edu/~vijay/"
+  Read: "chapters-list"
+  Buy: "https://www.amazon.com/dp/B0BPLYLKQK"
+  Author: "aboutme"
 
 # --- Logo --- #
 
