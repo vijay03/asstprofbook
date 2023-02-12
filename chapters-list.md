@@ -18,16 +18,13 @@ Published chapters are linked:
 - [Chapter 3: Funding](chapters/funding.pdf)
 - [Chapter 4: Teaching](chapters/teaching.pdf)
 - [Chapter 5: Research](chapters/research.pdf)
-- Chapter 6: Outreach
-    - 6.1 Blogging
-    - 6.2 Using social media
-    - 6.3 Giving talks
-    - [6.4 Networking](chapters/networking.pdf)
+- [Chapter 6: Outreach](chapters/outreach.pdf)
 - Chapter 7: Service
 - Chapter 8: Self-Care
 - Conclusion
 
 Changelog:
+- Feb 12: Add outreach chapter
 - Jan 30: Add research chapter
 - Jan 23: Updated and re-organized teaching chapter
 - Dec 17: Add teaching chapter
