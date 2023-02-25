@@ -19,11 +19,12 @@ Published chapters are linked:
 - [Chapter 4: Teaching](chapters/teaching.pdf)
 - [Chapter 5: Research](chapters/research.pdf)
 - [Chapter 6: Outreach](chapters/outreach.pdf)
-- Chapter 7: Service
+- [Chapter 7: Service](chapters/service.pdf)
 - Chapter 8: Self-Care
 - Conclusion
 
 Changelog:
+- Feb 26: Add service chapter
 - Feb 12: Add outreach chapter
 - Jan 30: Add research chapter
 - Jan 23: Updated and re-organized teaching chapter
