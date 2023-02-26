@@ -8,7 +8,6 @@ As I write the book, I will be uploading chapters here one by one. I will likely
 I'm aware the PDFs look terrible right now. Content first! My plan is to write it up, and then spend some time later making it look better.
 
 Please point out errors by creating an [issue here](https://github.com/vijay03/asstprofbook/issues). 
-
 Published chapters are linked:
 - [Book Cover](chapters/cover.pdf)
 - [Cover Pages](chapters/prelim.pdf)
@@ -20,10 +19,11 @@ Published chapters are linked:
 - [Chapter 5: Research](chapters/research.pdf)
 - [Chapter 6: Outreach](chapters/outreach.pdf)
 - [Chapter 7: Service](chapters/service.pdf)
-- Chapter 8: Self-Care
-- Conclusion
+- [Chapter 8: Self-Care](chapters/selfcare.pdf)
+- [Conclusion](chapters/conc.pdf)
 
 Changelog:
+- Feb 27: Add self-care and conclusion chapters. First draft of book is done!
 - Feb 26: Add service chapter
 - Feb 12: Add outreach chapter
 - Jan 30: Add research chapter
