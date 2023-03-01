@@ -23,6 +23,7 @@ Published chapters are linked:
 - [Conclusion](chapters/conc.pdf)
 
 Changelog:
+- Feb 28: The version of the book as of Feb 27 is [now available](https://www.amazon.com/dp/B0BPLYLKQK) on Amazon as an ebook!
 - Feb 27: Add self-care and conclusion chapters. First draft of book is done!
 - Feb 26: Add service chapter
 - Feb 12: Add outreach chapter

@@ -6,9 +6,11 @@ subtitle: What I wish I knew when I started as an Assistant Professor in Compute
 
 <img src="assets/img/cover.png" style="float:left;width:200px;margin:10px 10px 10px 10px">
 
-Hello! My name is Vijay Chidambaram, and I'm a recently-promoted Associate Professor at the Department of Computer Science at the University of Texas at Austin. I'm planning to write "The CS Assistant Professor" Handbook over the next year or so while I'm on my sabbatical (hope to be done by Jun 23!).
+Hello! My name is Vijay Chidambaram, and I'm a recently-promoted Associate Professor at the Department of Computer Science at the University of Texas at Austin. 
 
-If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates! You can use the form to tell me if there are topics you would like me to cover.
+I'm the author of the "The CS Assistant Professor Handbook", a book that explains the professor job and discusses the challenges that new professors face. 
+
+If you are interested in the book, please sign up [here](https://forms.gle/VsHjhUBUTAR9a6nJ8) to receive updates, and leave comments! You can use the form to tell me if there are topics you would like me to cover.
 
 <p><br></p>
 
@@ -20,17 +22,18 @@ First, I wanted to document my own journey of becoming a professor and getting t
 
 This book is mainly meant for new assistant professors, and graduate students who are going to start as assistant professors in the near future. That being said, I think it will be helpful to undergraduate or graduate students who want to pursue this path, since it shows them what the job is like. 
 
-## Outline (as of Jun 2022)
+## Outline (as of Mar 2023)
 
-<img src="assets/img/outline-jun22.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">
+<img src="assets/img/outline-1.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">
+<img src="assets/img/outline-2.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">
 
 ## How can I access this content? 
 
 Being a student of [Remzi](http://www.cs.wisc.edu/~remzi) and [Andrea Arpaci-Dusseau](http://www.cs.wisc.edu/~dusseau), how could I not make this [a free online book](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)? The book chapters will always be available online at this website.
 
-I plan to upload the chapter PDFs as I write them (without any fancy typography) onto this website. Those who have signed up will also receive the book chapters by email.
+If you want a version that is easier to read on a tablet/kindle, the book is available through Amazon! You can order it [here](https://www.amazon.com/dp/B0BPLYLKQK). It is also available in a number of other countries/regions, such as [India](https://www.amazon.in/dp/B0BPLYLKQK), [Europe](https://www.amazon.de/dp/B0BPLYLKQK), [Canada](https://www.amazon.ca/dp/B0BPLYLKQK), and [Japan](https://www.amazon.co.jp/dp/B0BPLYLKQK).
 
-If you want a version that is easier to read on a tablet/kindle, the book will also be available through Amazon! You can pre-order it [here](https://www.amazon.com/dp/B0BPLYLKQK). The ebook tentatively launches Mar 2023. I'm still exploring making it available from other vendors (it is not exclusive to Amazon).
+I'm still exploring making it available from other vendors (it is not exclusive to Amazon).
 
 <img src="assets/img/kindle.png" style="float:center;height:200px;margin:10px 10px 10px 10px">
 
