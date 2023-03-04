@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The CS Assistant Professor Handbook
-subtitle: What I wish I knew when I started as an Assistant Professor in Computer Science
+subtitle: Essential know-how for new and aspiring professors in computer science
 ---
 
 <img src="assets/img/cover.png" style="float:left;width:200px;margin:10px 10px 10px 10px">
