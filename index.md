@@ -6,7 +6,7 @@ subtitle: Essential know-how for new and aspiring professors in computer science
 
 <img src="assets/img/cover.png" style="float:left;width:200px;margin:10px 10px 10px 10px">
 
-Hello! My name is Vijay Chidambaram, and I'm a recently-promoted Associate Professor at the Department of Computer Science at the University of Texas at Austin. 
+Hello! My name is Vijay Chidambaram, and I'm an Associate Professor at the Department of Computer Science at the University of Texas at Austin. 
 
 I'm the author of the "The CS Assistant Professor Handbook", a book that explains the professor job and discusses the challenges that new professors face. 
 
@@ -31,7 +31,12 @@ This book is mainly meant for new assistant professors, and graduate students wh
 
 Being a student of [Remzi](http://www.cs.wisc.edu/~remzi) and [Andrea Arpaci-Dusseau](http://www.cs.wisc.edu/~dusseau), how could I not make this [a free online book](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)? The book chapters will always be available online at this website.
 
-If you want a version that is easier to read on a tablet/kindle, the book is available through Amazon! You can order it [here](https://www.amazon.com/dp/B0BPLYLKQK). It is also available in a number of other countries/regions, such as [India](https://www.amazon.in/dp/B0BPLYLKQK), [Europe](https://www.amazon.de/dp/B0BPLYLKQK), [Canada](https://www.amazon.ca/dp/B0BPLYLKQK), and [Japan](https://www.amazon.co.jp/dp/B0BPLYLKQK).
+The book is also available via Amazon in various forms: <br>
+- [Kindle version](https://www.amazon.com/dp/B0BPLYLKQK)
+- [Paperback](https://www.amazon.com/dp/B0CCCQR3T2)
+- [Hardcover](https://www.amazon.com/dp/B0CCCX6LRC)
+
+It is also available in a number of other countries/regions, such as [India](https://www.amazon.in/dp/B0BPLYLKQK), [Europe](https://www.amazon.de/dp/B0BPLYLKQK), [Canada](https://www.amazon.ca/dp/B0BPLYLKQK), and [Japan](https://www.amazon.co.jp/dp/B0BPLYLKQK). Check in your regional Amazon website!
 
 I'm still exploring making it available from other vendors (it is not exclusive to Amazon).
 
