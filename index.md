@@ -22,7 +22,7 @@ First, I wanted to document my own journey of becoming a professor and getting t
 
 This book is mainly meant for new assistant professors, and graduate students who are going to start as assistant professors in the near future. That being said, I think it will be helpful to undergraduate or graduate students who want to pursue this path, since it shows them what the job is like. 
 
-## Outline (as of Mar 2023)
+## Outline
 
 <img src="assets/img/outline-1.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">
 <img src="assets/img/outline-2.png" style="text-align:center;width:400px;margin:10px 10px 10px 10px">

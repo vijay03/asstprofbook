@@ -15,7 +15,8 @@ author: Vijay Chidambaram
 
 navbar-links:
   Read: "chapters-list"
-  Buy: "https://www.amazon.com/dp/B0BPLYLKQK"
+  # Buy: "https://www.amazon.com/dp/B0BPLYLKQK"
+  Buy: "buy"
   Author: "aboutme"
 
 # --- Logo --- #
